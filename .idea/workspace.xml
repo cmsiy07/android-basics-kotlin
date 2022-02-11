@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3153142-826b-441b-bd1f-516f94393f2a" name="Default Changelist" comment="" />
+    <list default="true" id="f3153142-826b-441b-bd1f-516f94393f2a" name="Default Changelist" comment="uploading various projects" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +37,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/android-basics-kotlin-words-app-starter" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/DiceRoller" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="SvnConfiguration">
@@ -33,12 +51,43 @@
       <option name="presentableId" value="Default" />
       <updated>1644552904957</updated>
     </task>
+    <task id="LOCAL-00001" summary="uploading various projects">
+      <created>1644555217301</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1644555217301</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="uploading various projects" />
+    <option name="LAST_COMMIT_MESSAGE" value="uploading various projects" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="486" y="275" key="FileChooserDialogImpl" timestamp="1644552935128">
+    <state x="486" y="275" key="FileChooserDialogImpl" timestamp="1644555327160">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="486" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1644552935128" />
+    <state x="486" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1644555327160" />
+    <state x="430" y="255" key="Vcs.Push.Dialog.v2" timestamp="1644555230950">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="430" y="255" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1644555230950" />
+    <state x="647" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1644555191179">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="647" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1644555191179" />
   </component>
 </project>

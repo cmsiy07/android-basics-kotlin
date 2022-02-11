@@ -1,3 +1,5 @@
+import com.example.happybirthday.R
+
 9package com.example.happybirthday
 
 import androidx.appcompat.app.AppCompatActivity
