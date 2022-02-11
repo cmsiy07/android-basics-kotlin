@@ -8,3 +8,5 @@ Projects under Android Basics for Kotlin by Google
 - click handler with randomization on lemon size
 ## Tip Time
 - basic tip calculator
+## Affirmations App 
+- use of Recycler View and Material Components(cards) to display list of images
