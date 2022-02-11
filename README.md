@@ -10,3 +10,5 @@ Projects under Android Basics for Kotlin by Google
 - basic tip calculator
 ## Affirmations App 
 - use of Recycler View and Material Components(cards) to display list of images
+## Doggler App 
+- created an app the displays a scrollable list of dogs with texts
